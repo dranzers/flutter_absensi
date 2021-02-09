@@ -37,8 +37,6 @@ class ButtonLogin extends StatelessWidget {
             padding: EdgeInsets.only(right: 5),
             child: CircularProgressIndicator())
         : ButtonTheme(
-            minWidth: 0,
-            materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
             padding: EdgeInsets.symmetric(horizontal: 37.0, vertical: 12.0),
             child: FlatButton(
               color: Color(0xffC4C4C4),

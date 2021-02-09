@@ -18,7 +18,7 @@ class ViewSetting extends StatelessWidget {
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  NavigateBack(title: 'Setting'),
+                  NavigateBack(title: 'Pengaturan'),
                   Expanded(
                     flex: 1,
                     child: Column(
